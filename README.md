@@ -1,1 +1,1 @@
-# puthonProjects
+# pythonProjects
